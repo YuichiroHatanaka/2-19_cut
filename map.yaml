@@ -1,5 +1,15 @@
 image: cut_1.pgm
 resolution: 0.050000
+#image: cut_2.pgm
+#resolution: 0.100000
+#image: cut_4.pgm
+#resolution: 0.200000
+#image: cut_8.pgm
+#resolution: 0.400000
+#image: cut_16.pgm
+#resolution: 0.800000
+
+
 origin: [-20.000000, -20.000000, 0.000000]
 negate: 0
 occupied_thresh: 0.65
